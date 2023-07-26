@@ -28,7 +28,7 @@ def find_id(words, word):
 mydb = mysql.connector.connect(
   host="localhost",
   user="nendoroid_db_admin",
-  password="Mikuisthebest@108",
+  password="",
   database="nendoroid_db"
 )
 
